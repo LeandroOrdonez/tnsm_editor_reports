@@ -1,0 +1,23 @@
+[
+    "Manuscript ID - Original", 
+    "Manuscript ID - Latest", 
+    "Manuscript Type",
+    "Manuscript Status", 
+    "Original Submission Date",
+    "Submission Month", 
+    "Submission Month Number", 
+    "Submission Year",
+    "Contact Author Country/Region", 
+    "Corresponding Author Country/Region",
+    "Editor Names", 
+    "First Decision",
+    "First Decision Date", 
+    "Latest Decision", 
+    "Latest Decision Date",
+    "Accept or Reject Final Decision", 
+    "# Revisions", "# Resubmissions",
+    "# Days Between Original Submission & Original Decision",
+    "# Days Between Original Submission & Final Decision",
+    "# Days Since Original Submission", 
+    "# Days Since Latest Submission"
+]
